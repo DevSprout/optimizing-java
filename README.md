@@ -1,7 +1,7 @@
 # 자바 최적화
 > 가장 빠른 성능을 구현하는 검증된 10가지 기법
 
-<img src="./assets/bookcover.jpg" alt="한글판 책표지" style="zoom:50%;" /> <img src="./assets/bookcover-origin.jpg" alt="원서 책 표지" style="zoom: 50%;" />
+<img src="./assets/bookcover.jpeg" alt="한글판 책표지" style="zoom:50%;" /> <img src="./assets/bookcover-origin.jpg" alt="원서 책 표지" style="zoom: 50%;" />
 
 ### 스터디원
 
