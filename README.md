@@ -7,7 +7,6 @@
 
 - 권민준 ( @MinJunKweon )
 - 양희찬 ( @log-info )
-- 이도현 ( @2rohyun )
 - 조민국 ( @minkukjo )
 - 남해울 ( @HaeUlNam )
 
